@@ -1,4 +1,5 @@
 refi-font
 =========
 
-A font as minimal as I could make it.
+# How to Install
+1. Open the .ttf file and install.
